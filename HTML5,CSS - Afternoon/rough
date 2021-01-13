@@ -1,0 +1,26 @@
+ <div class="container">
+        <div class="header"> 
+            <div class="profilePic">
+                <img src="img/twitter.png">
+            </div>
+           
+        </div>
+         
+        
+     <div class="body">
+        <div class="leftSide">
+
+        </div>
+        <div class="rightSide">
+
+        </div>
+     </div>
+        <div class="footer">
+            <a href="https://www.google.com" class="link">
+                <img src="/img/twitter.png" class="social">
+                </a>
+                <img src="/img/twitter.png" class="social">
+                </a>
+                <img src="/img/twitter.png" class="social" >
+                </a>
+        </div></div>
