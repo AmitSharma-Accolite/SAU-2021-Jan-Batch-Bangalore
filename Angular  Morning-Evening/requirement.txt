@@ -1,0 +1,6 @@
+/* 
+   requirement for mat-expansion-panel 
+   use for design 
+ */
+
+ng add @angular/material
