@@ -1,0 +1,10 @@
+Create CRUD operations using SprintBoot, JPA and Hibernate.
+
+Use Table of your choice, make sure  you establish at least 1 relationship between tables.
+
+Share your code and make sure it's working :P
+
+Attached the demo code for your reference.
+
+Feel free to contact me if you guys have any queries.
+
