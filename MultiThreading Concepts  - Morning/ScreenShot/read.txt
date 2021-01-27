@@ -1,0 +1,5 @@
+random number of books and student object created 
+and blogs (ScreenShorts) is used to check two students
+have not same book
+
+one to one relation between book and student maintain  
